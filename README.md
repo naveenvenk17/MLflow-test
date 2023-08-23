@@ -1,5 +1,7 @@
 # MLflow-test
 
+It's a personal project to understand MLOPS with the implementation and deployment of wine quality prediction.
+
 
 ## workflows
 
